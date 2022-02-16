@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khalid Khushal
 - 👀 I’m interested in pursuing my career in web development
 - 🌱 I’m currently learning nodejs and working on it since a year
-- 💞️ I’m looking to be a part of agile team with a good environment to learn and grow.
+- 💞️ I’m looking to be a part of an active team with a good environment to learn and grow.
 - 📫 you can reach me through my email khalidkhushal.01@gmail.com or linkedIn https://www.linkedin.com/in/khalid-khushal-a64026183 
 
 <!---
