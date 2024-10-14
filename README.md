@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Khalid Khushal
 - 👀 I’m a MERN stack developer and have more than 3 year industry experience.
 - 🌱 I have expertise in Backend development and Devops with docker, kubernetes and AWS.
-- 📫 you can reach me through my email [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidkhushal.01@gmail.com)
 
 #### I am also ACTIVE on
 
@@ -10,6 +9,7 @@
 #### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-khushal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidkhushal.01@gmail.com)
 
 
 <!---
