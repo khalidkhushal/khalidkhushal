@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalid Khushal
-- 👀 I’m a MERN stack developer and have more than 3 year industry experience.
-- 🌱 I have expertise in Backend development and Devops with docker, kubernetes and AWS.
+- 👀 I’m a Full stack developer with more than 3 years of industry experience.
+- 🌱 I have expertise in Backend development. Frontend Web Development, Devops and cloud platforms.
 
 #### I am also ACTIVE on
 
