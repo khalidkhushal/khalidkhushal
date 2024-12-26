@@ -39,6 +39,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building innovati
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4B4B4B?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ### Databases
