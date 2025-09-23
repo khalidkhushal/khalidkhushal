@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a developer passionate about building innovati
 
 ## 💫 About Me
 
-- 🔭 **Full Stack Developer** with 5+ years of industry experience
-- 🎯 Passionate about **System Design** and **AI**
+- 🔭 **Full Stack Developer** with 7+ years of industry experience
+- 🎯 Passionate about **Backend Systems**, **System Design** and **AI**
 - 🌱 Continuously learning and exploring new technologies
 - 👯 Looking to collaborate on interesting open-source projects
 - 💬 Ask me about software development and technology
